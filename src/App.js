@@ -5,7 +5,6 @@ import { Header, Footer, Blog, Possibility, Features, WhatGPT3  } from './contai
 function App() {
   return (
     <div className="App">
-      <h1 className="center">GPT3 - Ism34</h1>
       <div className="gradient__bg">
       <Navbar />
       <Header />
