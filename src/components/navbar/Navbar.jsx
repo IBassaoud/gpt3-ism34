@@ -1,17 +1,29 @@
 import React, { useState } from 'react';
 import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
+import { Link } from 'react-scroll';
 import logo from '../../assets/logo.svg';
 import './navbar.css';
 
 const Menu = () => (
-    <>
-    <p><a href="#home">Home</a></p>
-    <p><a href="#wgpt3">What is GPT3</a></p>
-    <p><a href="#possibility">Open AI</a></p>
-    <p><a href="#features">Case studies</a></p>
-    <p><a href="#blog">Library</a></p>
-    </>
-)
+  <>
+    <Link to="home" smooth duration={100}>
+      <p>Home</p>
+    </Link>
+    <Link to="wgpt3" smooth duration={100}>
+      <p>What is GPT3</p>
+    </Link>
+    <Link to="possibility" smooth duration={100}>
+      <p>Open AI</p>
+    </Link>
+    <Link to="features" smooth duration={100}>
+      <p>Case studies</p>
+    </Link>
+    <Link to="blog" smooth duration={100}>
+      <p>Library</p>
+    </Link>
+  </>
+);
+
 const Navbar = () => {
   const [toggleMenu, setToggleMenu ] = useState(false);
 
@@ -49,7 +61,7 @@ const Navbar = () => {
         }
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Navbar
+export default Navbar;

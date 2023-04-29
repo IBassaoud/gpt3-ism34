@@ -1,5 +1,5 @@
 import './App.css';
-import { Article, Brand, CTA, Feature, Navbar } from './components';
+import { Brand, CTA, Navbar } from './components';
 import { Header, Footer, Blog, Possibility, Features, WhatGPT3  } from './containers';
 
 function App() {
