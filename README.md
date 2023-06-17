@@ -23,7 +23,7 @@ This project demonstrates the use of React functional components, showcasing the
 - Custom domain configuration for personalized website URLs.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your/repo.git`
+1. Clone the repository: `https://github.com/IBassaoud/gpt3-ism34.git`
 2. Install dependencies: `npm install`
 
 ## Usage
