@@ -5,20 +5,20 @@ import Feature from '../../components/feature/Feature';
 
 const featuresData = [
   {
-    title: 'Improving end distrusts instantly',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
+    title: 'Unleash Trust and Rapid Progress',
+    text: 'Experience the power of instant trust and rapid progress as we eliminate barriers and foster immediate improvements. Witness the remarkable transformation that unfolds as distrust dissipates and collaboration flourishes. Join us on this journey of growth and success as we pave the way for unity and remarkable achievements.',
   },
   {
-    title: 'Become the tended active',
-    text: 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.',
+    title: 'Activate Your Potential',
+    text: 'Unlock your true potential by becoming an active participant in your own success. Experience the uncommonly occasional assistance that enables you to thrive and accomplish more. Embrace the power of enabling actions and discover the path to fulfillment and achievement.',
   },
   {
-    title: 'Message or am nothing',
-    text: 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.',
+    title: 'Transformative Messages',
+    text: 'Elegantly communicate your thoughts and ideas through powerful messages that captivate and resonate. Engage in meaningful debates and conversations that leave a lasting impact. Let your words shine with eloquence and depth, creating connections and opening new possibilities.',
   },
   {
-    title: 'Really boy law county',
-    text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..',
+    title: 'Redefining Boundaries',
+    text: 'Step into a realm where laws are redefined, and possibilities abound. Explore new horizons and break free from limitations. Unleash your potential and witness the rapid blush of progress as you build a future that knows no boundaries.',
   },
 ];
 

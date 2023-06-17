@@ -16,18 +16,17 @@ const Footer = () => {
       <div className="gpt3__footer-links">
         <div className="gpt3__footer-links_logo">
           <img src={gpt3Logo} alt="logo" />
-          <p>Crechterwoord K12 182 DK Alknjkcb, <br /> All Rights Reserved</p>
+          <p>Ismail Bassaoud | ism34, <br /> All Rights Reserved</p>
         </div>
         <div className="gpt3__footer-links_div">
-          <h4>Links</h4>
-          <p>Overons</p>
+          <h4>Explore</h4>
+          <p>About Us</p>
           <p>Social Media</p>
-          <p>Counters</p>
-          <p>Contact</p>
+          <p>FAQs</p>
+          <p>Contact Us</p>
         </div>
         <div className="gpt3__footer-links_div">
-          <h4>Links</h4>
-          <p>Company</p>
+          <h4>Company</h4>
           <p>Terms & Conditions</p>
           <p>Privacy Policy</p>
           <p>Contact</p>
