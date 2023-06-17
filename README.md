@@ -19,8 +19,6 @@ This project demonstrates the use of React functional components, showcasing the
 - Adherence to the CSS BEM Model for scalable and maintainable styling.
 - Engaging animations and complex gradients for visually appealing designs.
 - Responsive design achieved through strategically placed media queries.
-- Deployment to fast servers for optimal performance.
-- Custom domain configuration for personalized website URLs.
 
 ## Installation
 1. Clone the repository: `https://github.com/IBassaoud/gpt3-ism34.git`
